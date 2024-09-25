@@ -1,3 +1,11 @@
 body {
 background-color: lime;
+text-align: center;
+}
+h1 {
+  font-style: oblique; 
+  color: yellow;
+}
+p {
+    color: rgba(79, 123, 219, 0.952);
 }
